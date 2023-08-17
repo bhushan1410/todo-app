@@ -38,9 +38,7 @@ const Navbar = () => {
                 {
                 item.child.length > 0 
                 }
-         
           </>
-
         ))}
 
     
